@@ -1,0 +1,25 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:written_book",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{title:\"\",author:\"\",pages:['{\"text\":\"すべて国民は\"}','{\"text\":\"健康で文化的な\"}','{\"text\":\"最低限度の\"}','{\"text\":\"生活を\"}','{\"text\":\"営む\"}','{\"text\":\"権利を有する\"}','{\"text\":\"憲法25条\"}','{\"text\":\"finish\"}']}"
+                        },
+                        {"function": "set_nbt","tag":"{script:1b}"}
+                    ]
+                }
+            ]
+        }
+    ]
+}

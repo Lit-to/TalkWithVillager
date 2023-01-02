@@ -1,3 +1,6 @@
+#> twv:far
+
+
 scoreboard players set @s talk -1
 #tellraw @a[distance=] {"text": "遠くに離れてしまったため、声が聞こえなくなったようだ...","color": "gray"}
 

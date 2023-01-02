@@ -1,3 +1,5 @@
+#> twv:register/shl
+
 setblock ~ ~2 ~ shulker_box
 data modify block ~ ~2 ~ Items prepend from entity @s Inventory[0]
 

@@ -4,7 +4,6 @@
 
 ## 必要環境 / Recuired
 - Minecraft JavaEdition ver.1.16~
-- [MCCMD-ArrayUtility ちぇん氏作成](https://github.com/ChenCMD/MCCMD-ArrayUtility)
 
 # 使い方 / How to Use
 - 本に1ページずつ話したいことを書いておきます。
